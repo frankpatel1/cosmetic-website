@@ -1,1 +1,1 @@
-# cosmetic-website
+This GitHub repository is dedicated to the development and enhancement of a modern, interactive cosmetics web platform, showcasing a range of beauty products and user-focused features. Built with contemporary web technologies, it offers an engaging user experience tailored to both customers and beauty enthusiasts seeking information about makeup, skincare, and related products
